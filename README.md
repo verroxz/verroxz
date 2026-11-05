@@ -9,7 +9,7 @@
 
 </div>
 
-I make Roblox scripts, client modifications, and web automation tools. Most work stays in private repositories, overview below.
+I make Roblox games, do some 3D modeling and building, and put together web tools on the side. Most of my stuff is kept in private repos, so here’s an overview.
 
 ---
 
