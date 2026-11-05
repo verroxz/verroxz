@@ -2,19 +2,12 @@
 
 <img src="https://raw.githubusercontent.com/verroxz/verroxz/main/banner.gif" width="100%" alt="Header Banner" />
 
-<br/><br/>
-
-<a href="https://steamcommunity.com/profiles/76561197963097211" target="_blank">
-  <img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white" height="28" alt="Steam" />
-</a>
-&nbsp;
-<a href="https://x.com/verroxzcs" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="28" alt="X" />
-</a>
+<p align="center">
+  <a href="https://steamcommunity.com/profiles/76561197963097211"><img src="https://img.shields.io/badge/STEAM-ZZZ-141517?style=for-the-badge&logo=steam&logoColor=white&labelColor=19191b" alt="Steam" /></a>
+  <a href="https://x.com/verroxzcs"><img src="https://img.shields.io/badge/X-%40VERROXZCS-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=19191b" alt="X" /></a>
+</p>
 
 </div>
-
-<br/>
 
 I make Roblox scripts, client modifications, and web automation tools. Most work stays in private repositories, overview below.
 
