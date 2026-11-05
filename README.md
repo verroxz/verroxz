@@ -32,7 +32,7 @@ I make Roblox scripts, client modifications, and web automation tools. Most work
       <p>Your #1 premier script hub. Engineered for peak performance, modern dark aesthetics, and seamless execution across PC and mobile executors.</p>
       <p>
         <img src="https://img.shields.io/badge/Luau-202127?style=flat-square&logo=lua&logoColor=white" />
-        <img src="https://img.shields.io/badge/Starlight_UI-202127?style=flat-square&color=202127" />
+        <img src="https://img.shields.io/badge/Lunar_UI-202127?style=flat-square&color=202127" />
         <img src="https://img.shields.io/badge/Radar-202127?style=flat-square&color=202127" />
         <img src="https://img.shields.io/badge/Multi--Platform-202127?style=flat-square&color=202127" />
       </p>
